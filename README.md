@@ -8,3 +8,6 @@
 - 📫 How to reach me: junkiat45@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like coffee
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=jokerJun00&count_private=true&show_icons=true&theme=radical
+)
