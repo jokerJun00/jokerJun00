@@ -1,16 +1,16 @@
 ### Hi, I am Choon Kiat
 
+### About Me
+I am a Software Engineering Student who currently study in Universiti Tunku Abdul Rahman, Malaysa. I am passionate in Flutter and iOS mobile development.
+
 - 🔭 I’m currently working on libraryBookingApp
 - 🌱 I’m currently learning flutter
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with flutter mentor
-- 💬 Ask me about flutter or react native
 - 📫 How to reach me: junkiat54@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like to listen initial D eurobeat when I do my coding.
 
 <b>Tech & Tools: </b>
-<br/>
 <br/>
 <img src="https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff"/>
 <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=fff"/>
