@@ -3,7 +3,7 @@
 ### About Me
 I am a Software Engineering Student who currently study in Universiti Tunku Abdul Rahman, Malaysa. I am passionate in Flutter and iOS mobile development.
 
-- 🔭 I’m currently working on libraryBookingApp
+- 🔭 I’m currently working on my FYP "MyPayment Reminder App"
 - 🌱 I’m currently learning flutter
 - 🤔 I’m looking for help with flutter mentor
 - 📫 How to reach me: junkiat54@gmail.com
