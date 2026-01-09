@@ -25,8 +25,4 @@ Experienced in designing reliable, fault-tolerant backend services, handling hig
 - ChatGPT
 <!-- <img src=""/>
 <img src=""/>
-<img src=""/> -->
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=jokerJun00&count_private=true&show_icons=true&theme=default"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokerJun00&layout=compact"/>
 
